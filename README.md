@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asifur-rahman1
+- 👋 Hi, I’m Asif
 - 👀 I’m interested in Robbery
 - 🌱 I’m currently learning how to perfectly rob a bank
 - 💞️ I’m looking to collaborate on bank robbery
