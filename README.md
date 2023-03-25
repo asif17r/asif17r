@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Goto your nearest bank
 
 ![Codeforces](https://badges.joonhyung.xyz/codeforces/Asif17r.svg) 
-![AtCoder](https://badges.joonhyung.xyz/atcoder/ashiq_17.svg)
+![AtCoder](https://badges.joonhyung.xyz/atcoder/asif17r.svg)
 
 <!---
 asifur-rahman1/asifur-rahman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
