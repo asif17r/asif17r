@@ -9,9 +9,7 @@
 ## 💻 Tech Stack  
 - **Languages:** C/C++, Java, Python  
 - **Backend:** Spring Boot, PostgreSQL, Docker, CI/CD  
-- **Frontend:** React, CSS  
 - **Cloud & DevOps:** Google Cloud Platform (GCP), Docker  
-- **AI & Data Science:** Machine Learning, NLP
 
 ## 🏆 Achievements  
 - **ICPC Dhaka 2023:** 9th out of 1700+ teams  
