@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 🎓 **Final Year CSE Student** at the University of Rajshahi  
-🏆 **Competitive Programmer** (ICPC Dhaka Regionalist, Candidate Master on Codeforces)  
+🏆 **Competitive Programmer** (ICPC Asia West Finalist, Candidate Master on Codeforces)  
 💡 **AI & System Design Enthusiast** | Passionate about Optimization & Scalable Solutions  
 🌍 **Exploring AI, GCP, and Full-Stack Development**  
 
