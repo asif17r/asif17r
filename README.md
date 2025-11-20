@@ -1,30 +1,33 @@
 # 👋 Hey there! I'm Md Asifur Rahman  
 
 ## 🚀 About Me  
-🎓 **Final Year CSE Student** at the University of Rajshahi  
+💼 **Software Engineer** | CSE Graduate from the University of Rajshahi  
 🏆 **Competitive Programmer** (ICPC Asia West Finalist, Candidate Master on Codeforces)  
 💡 **AI & System Design Enthusiast** | Passionate about Optimization & Scalable Solutions  
-🌍 **Exploring AI, GCP, and Full-Stack Development**  
+🌍 **Building AI-Powered Solutions with Full-Stack Development**  
 
 ## 💻 Tech Stack  
-- **Languages:** C/C++, Java, Python  
+- **Languages:** C/C++, Java, Python, JavaScript/TypeScript  
 - **Backend:** Spring Boot, PostgreSQL, Docker, CI/CD  
+- **Frontend:** React, Full-Stack Web Development  
 - **Cloud & DevOps:** Google Cloud Platform (GCP), Docker  
 
-## 🏆 Achievements  
+## 🏆 Competitive Programming Achievements  
 - **ICPC Dhaka 2023:** 9th out of 1700+ teams  
 - **NCPC Onsite 2023 (JU):** 10th place  
 - **Asia-West ICPC Regional 2021:** 35th place  
 - **Inter-Uni Contests:** 4th place at CUET & CoU  
+- **Codeforces:** Candidate Master  
 
 ## 🔥 Notable Projects  
 🔹 **Lost & Found Web App** - AI-powered search for lost items (Spring Boot, React, GCP)  
 🔹 **Roktakto Prantor** - 3D game in Unreal Engine, modeled after my university  
 🔹 **Dead Island 2** - 2D survival game in C++  
 
-## 📚 Experience  
-- **Trainee at Geaky Solutions** (CI/CD, Spring Boot, PostgreSQL)  
-- **Exchange student at Kyutech, Japan** (Genetic optimization techniques)  
+## 💼 Professional Experience  
+- **Software Engineer at Enosis Solutions** (JavaScript, CSS, .NET)  
+- **Intern at Geaky Solutions** (Spring Boot, PostgreSQL, CI/CD, Docker)  
+- **Research Exchange at Kyutech, Japan** (Genetic optimization techniques)  
 - **Programming Trainer at University of Rajshahi** (Mentored 50+ juniors, trained ICPC regionalists)  
 
 ## 📫 Let's Connect!  
