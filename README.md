@@ -10,7 +10,7 @@
 - **Languages:** Java, C/C++, Python, JavaScript/TypeScript, SQL  
 - **Backend:** Spring Boot, Spring Security, JPA/Hibernate, Flyway, PostgreSQL, REST APIs  
 - **Frontend:** React, Next.js  
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker  
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, SAM), Docker  
 
 ## 🏆 Competitive Programming Achievements  
 - **ICPC Dhaka Preliminary 2023:** 9th out of 1700+ teams  
@@ -21,7 +21,7 @@
 - **Codeforces:** Candidate Master (peak 1965) · **CodeChef:** 5 star · **LeetCode:** Knight  
 
 ## 🔥 Notable Projects  
-🔹 **[Sketchboard](https://github.com/Learnathon-By-Geeky-Solutions/sketchboard)** - AI-powered lost item recovery with image and text search over CLIP embeddings and pgvector (Spring Boot, PostgreSQL, React, GCP). Led a team of three.  
+🔹 **[Sketchboard](https://github.com/Learnathon-By-Geeky-Solutions/sketchboard)** - AI-powered lost item recovery with image and text search over CLIP embeddings and pgvector (Spring Boot, PostgreSQL, React, AWS). Led a team of three.  
 🔹 **Roktakto Prantor** - 3D game in Unreal Engine, modeled after my university  
 🔹 **Dead Island 2** - 2D survival game in C++  
 
